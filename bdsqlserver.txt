@@ -1,0 +1,23 @@
+Desarrollar un sistema de base de datos que permita cumplir con el 
+siguiente problema:
+
+Una escuela de conduccion ofrece los siguientes servicios:
+
+Curso y adquisicion de licencia para automovil
+Curso y adquisicion de licencia paraw moto
+Curso y adquisicion de licencia para vehiculos publicos.
+
+Tener en cuenta, que un usuario, puede adquirir varias de estas licencias
+y que cada licencia posee al menos 2 categorias.
+
+La informacion del usuario es la siguiente>
+
+Nombre
+Apellido
+Nro identificacion
+Ciudad de nacimiento
+edad
+licencia de conduccion 1. 
+licencia de conduccion 2.
+
+Lo vamos a  diseñar y hacer en SQL SERVER
